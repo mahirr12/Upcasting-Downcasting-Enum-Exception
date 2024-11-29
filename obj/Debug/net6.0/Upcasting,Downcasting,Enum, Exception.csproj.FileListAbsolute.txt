@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\bin\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.exe
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\bin\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.deps.json
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\bin\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.runtimeconfig.json
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\bin\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.dll
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\bin\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.pdb
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.dll
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\obj\Debug\net6.0\refint\Upcasting,Downcasting,Enum, Exception.dll
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.pdb
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\obj\Debug\net6.0\Upcasting,Downcasting,Enum, Exception.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CodeAc\Upcasting,Downcasting,Enum, Exception\obj\Debug\net6.0\ref\Upcasting,Downcasting,Enum, Exception.dll

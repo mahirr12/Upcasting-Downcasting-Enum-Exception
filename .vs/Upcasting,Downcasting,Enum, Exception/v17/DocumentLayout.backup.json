@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|c:\\users\\admin\\desktop\\codeac\\upcasting,downcasting,enum, exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|c:\\users\\admin\\desktop\\codeac\\upcasting,downcasting,enum, exception\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|c:\\users\\admin\\desktop\\codeac\\upcasting,downcasting,enum, exception\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|solutionrelative:cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|c:\\users\\admin\\desktop\\codeac\\upcasting,downcasting,enum, exception\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|solutionrelative:hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|c:\\users\\admin\\desktop\\codeac\\upcasting,downcasting,enum, exception\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|solutionrelative:notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|c:\\users\\admin\\desktop\\codeac\\upcasting,downcasting,enum, exception\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A106342A-F45D-477E-82CE-99C7BB2F44BD}|Upcasting,Downcasting,Enum, Exception.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarType.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\CarType.cs",
+              "RelativeDocumentMoniker": "CarType.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\CarType.cs",
+              "RelativeToolTip": "CarType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:16:01.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:08:14.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwDoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:17:55.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\Hotel.cs",
+              "RelativeDocumentMoniker": "Hotel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\Hotel.cs",
+              "RelativeToolTip": "Hotel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:53:08.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotAvailableException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\NotAvailableException.cs",
+              "RelativeDocumentMoniker": "NotAvailableException.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\NotAvailableException.cs",
+              "RelativeToolTip": "NotAvailableException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:16:00.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Upcasting,Downcasting,Enum, Exception\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:32:40.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
